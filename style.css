@@ -68,3 +68,50 @@ h1 {
     font-size: 12px;
 }
 
+
+/* Section Content Article */
+
+
+.text-article {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.list-text-article {
+    padding-left: 15px;
+    padding-bottom: 20px;    
+}
+
+.yellow {
+    background-color: yellow;
+}
+
+table {
+    width: 100%;
+    border-spacing: 0;
+}
+
+.header-table {
+    background-color: #20A9E5;
+}
+
+th {
+    text-align: left;
+    color: #fff;
+}
+
+.small-column {
+    width: 20%;
+}
+
+.large-column {
+    width: 50%;
+}
+
+.content-table {
+    background-color: #B1E5F2;
+}
+
+.small-content-table {
+    padding-top: 15px;
+}
