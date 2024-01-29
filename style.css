@@ -20,3 +20,51 @@ header {
     width: 200px;
     padding: 25px 0 10px 10px;
 }
+
+/* Section Title */
+
+main {
+    padding-left: 10px;
+}
+
+.title-container {
+    padding: 15px 0;
+}
+
+h1 {
+    font-size: 38px;
+}
+
+.author-text {
+    font-size: 18px;
+    color: #808080;
+}
+
+.author {
+    color: #20A9E5; 
+}
+
+.date-text {
+    font-size: 12px;
+    color: #808080;
+
+}
+
+.photo-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.first-image-article {
+    width: 60%;
+    padding-bottom: 5px;
+}
+
+.second-image-article {
+    width: 50%;
+}
+
+.credits-photo-text {
+    font-size: 12px;
+}
+
