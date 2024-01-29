@@ -115,3 +115,33 @@ th {
 .small-content-table {
     padding-top: 15px;
 }
+
+/* Section Potrebbero Interessarti */
+
+.widget-title {
+    font-size: 16px;
+    color: #808080;
+    padding-bottom: 15px;
+}
+
+.suggested-article-container {
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 200px;
+    height: 140px;
+}
+
+.div-suggested-article-one {
+    background-image: url('./img/monitor.jpg');
+}
+
+.div-suggested-article-two {
+    background-image: url('./img/graph.jpg');
+}
+
+.suggested-article-title {
+    font-size: 19px;
+    color: #fff;
+    padding-top: 10px;
+    padding-left: 10px;
+}
